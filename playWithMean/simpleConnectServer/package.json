@@ -1,0 +1,15 @@
+{
+  "name": "simpleConnectServer",
+  "version": "1.0.0",
+  "main": "testServer.js",
+  "dependencies": {
+    "connect": "^3.3.4",
+    "ejs": "^2.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
